@@ -1,0 +1,36 @@
+   SW   perc perc perc  query      position in query           matching       repeat              position in  repeat
+score   div. del. ins.  sequence    begin     end    (left)    repeat         class/family         begin  end (left)   ID
+
+   3017   5.0  0.0  0.0  chr1              100     160     (99840) C  (CA)n      Simple_repeat     (224)   308   248     1
+   3080   5.7  0.0  0.0  chr1              140     200     (99800) +  (TTAGGG)n  Simple_repeat       1043  1103 (2326)     2
+   3187   6.4  0.0  0.0  chr1              180     240     (99760) +  (GA)n      Simple_repeat        438   498 (4733)     3
+  1418   7.1  0.0  0.0  chr1              220     280     (99720) C  A-rich     Low_complexity    (460)   162   102     4
+  2206   7.8  0.0  0.0  chr1              260     320     (99680) +  GC_rich    Low_complexity       334   394 (546)     5
+   3924   8.5  0.0  0.0  chr1              300     360     (99640) +  ALR/Alpha  Satellite/centr     1119  1179 (1198)     6
+   1230   9.2  0.0  0.0  chr1              340     400     (99600) C  SST1       Satellite/macro   (593)   672   612     7
+    836   9.9  0.0  0.0  chr1              380     440     (99560) +  SATR1      Satellite            535   595 (3325)     8
+   117  10.6  0.0  0.0  chr1              420     480     (99520) +  tRNA-Leu   tRNA                1506  1566 (3643)     9
+  1317  11.3  0.0  0.0  chr1              460     520     (99480) C  5S         rRNA              (2014)  1952  1892    10
+   3827  12.0  0.0  0.0  chr1              500     560     (99440) +  LSU-rRNA_Hsa rRNA/rRNA            683   743 (1551)    11
+   511  12.7  0.0  0.0  chr1              540     600     (99400) +  U1         snRNA                567   627 (2361)    12
+    381  13.4  0.0  0.0  chr1              580     640     (99360) C  scRNA1     scRNA             (2180)   296   236    13
+   3473  14.1  0.0  0.0  chr1              620     680     (99320) +  CentX      Centromeric          978  1038 (2764)    14
+  3639  14.8  0.0  0.0  chr1              660     720     (99280) +  TeloY      Telomeric/telo       694   754 (2649)    15
+  3993  15.5  0.0  0.0  chr1              700     760     (99240) C  Art1       ARTEFACT          (1081)  1182  1122    16
+   1593  16.2  0.0  0.0  chr1              740     800     (99200) +  nonTE1     nonTE                919   979 (4383)    17
+  1665  16.9  0.0  0.0  chr1              780     840     (99160) +  nonTE2     nonTE/foo            204   264 (267)    18
+  2216  17.6  0.0  0.0  chr1              820     880     (99120) C  L1MC5a     LINE/L1           (602)   447   387    19
+  1373  18.3  0.0  0.0  chr1              860     920     (99080) +  L1PA2      LINE/L1             2549  2609 (2666)    20
+  3964  19.0  0.0  0.0  chr1              900     960     (99040) +  L1PA3      LINE/L1              616   676 (2265)    21
+   1567  19.7  0.0  0.0  chr1              940    1000     (99000) C  L1M4       LINE/L1           (5588)   218   158    22
+   907  20.4  0.0  0.0  chr1              980    1040     (98960) +  L2a        LINE/L2             1281  1341 (2020)    23
+  1638  21.1  0.0  0.0  chr1             1020    1080     (98920) +  CR1-1      LINE/CR1            1046  1106 (2722)    24
+   597  21.8  0.0  0.0  chr1             1060    1120     (98880) C  (CA)n      Simple_repeat     (3898)  1627  1567    25
+  3964  22.5  0.0  0.0  chr1             1100    1160     (98840) +  (TTAGGG)n  Simple_repeat         51   111 (183)    26
+   2754  23.2  0.0  0.0  chr1             1140    1200     (98800) +  (GA)n      Simple_repeat        348   408 (588)    27
+  1658  23.9  0.0  0.0  chr1             1180    1240     (98760) C  A-rich     Low_complexity    (2691)  1433  1373    28
+   729  24.6  0.0  0.0  chr1             1220    1280     (98720) +  GC_rich    Low_complexity       647   707 (1357)    29
+    682  25.3  0.0  0.0  chr1             1260    1320     (98680) +  L1HS       LINE/L1              841   901 (3471)    30
+   3229  26.0  0.0  0.0  chr1             1300    1360     (98640) C  AluSx      SINE/Alu          (1835)   712   652    31
+   2476  26.7  0.0  0.0  chr1             1340    1400     (98600) +  AluY       SINE/Alu             761   821 (1781)    32
+  2758  27.4  0.0  0.0  chr1             1380    1440     (98560) +  AluJb      SINE/Alu            1610  1670 (3582)    33

@@ -1,0 +1,322 @@
+745 3.00 0.00 0.00 ScafA 100 200 (49800) C Cannrnd-0_family-0#LTR/ERVL (1751) 380 280 1 m_b4109s001i0
+
+  ScafA             100 CCAGT-AGGGACATGCCCGCAC 121
+                        viiiivii- i-ii i i -v
+C Cannrnd-0_fami    280 ATCATACACCTGAGGGCACCTA 259
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+842 4.30 0.00 0.00 ScafA 150 250 (49750) Cannrnd-1_family-1 122 222 (2680) 1 m_b4527s001i1
+
+  ScafA             150 GCGCC-ATAGAGGAACGCCACA 171
+                       i-v iivv v--vviv-ii- v
+  Cannrnd-1_fami    122 GCGGAGGCCAACCCACGAGGAT 143
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 3.70
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2409 5.60 0.00 0.00 ScafA 200 300 (49700) C Cannrnd-2_family-2 (3789) 1462 1362 1 m_b9176s001i2
+
+  ScafA             200 GCACC-CAGCTTCCGAG 216
+                       vvv  -vii vv -i-v
+C Cannrnd-2_fami   1362 ATAGCAGGGGAAGAATG 1346
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 4.40
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3311 6.90 0.00 0.00 ScafA 250 350 (49650) Cannrnd-3_family-3 210 310 (1934) 1 m_b45s001i3
+
+  ScafA             250 GTGGG-CGCTATGTTGGTCG 269
+                       i--i   --vv-i-  vvvi
+  Cannrnd-3_fami    210 TTGTGAGTCATCACAACTGT 229
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 5.10
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1608 8.20 0.00 0.00 ScafA 300 400 (49600) C Cannrnd-0_family-4 (5002) 492 392 1 m_b8198s001i4
+
+  ScafA             300 AAGCA-TAGAGGT 312
+                       -ii-i-v ---v 
+C Cannrnd-0_fami    392 GTTATATTCCGCT 380
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+677 9.50 0.00 0.00 ScafA 350 450 (49550) Cannrnd-1_family-5#LTR/ERVL 465 565 (4553) 1 m_b5603s001i5
+
+  ScafA             350 GGGCG-ACCCCTTATGGAAGACTTTCA 376
+                       ivi-iv- i   vv-vvvv-vii  ii
+  Cannrnd-1_fami    465 CTTCAAAGCAAGGGAGCAGGCTGGTCA 491
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 6.50
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3630 10.80 0.00 0.00 ScafA 400 500 (49500) C Cannrnd-2_family-6 (1685) 1660 1560 1 m_b9143s001i6
+
+  ScafA             400 GCCCA-GTTTTCGGTA 415
+                       -viv viv- v- viv
+C Cannrnd-2_fami   1560 AGCTCGCTAGCGTATT 1545
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 7.20
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3919 12.10 0.00 0.00 ScafA 450 550 (49450) Cannrnd-3_family-0 290 390 (331) 1 m_b4268s001i7
+
+  ScafA             450 TGCAA-AGAAACATATTTCTCATAGCCGAC 479
+                        vv i-iv-vi - -iivi-v-- -i   -
+  Cannrnd-3_fami    290 CCATGTTAGGGTAGATGGTTTGTAGCGCAC 319
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 7.90
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+814 13.40 0.00 0.00 ScafA 500 600 (49400) C Cannrnd-0_family-1 (2218) 1218 1118 1 m_b5476s001i8
+
+  ScafA             500 CCAAC-GCATCCTAGGTAAA 519
+                       -v  -- ivv i-i vv  v
+C Cannrnd-0_fami   1118 GCACTAGGCGGAGAACCAGT 1099
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1972 14.70 0.00 0.00 ScafA 550 650 (49350) Cannrnd-1_family-2 519 619 (3220) 1 m_b5772s001i9
+
+  ScafA             550 CCCAC-AGAGCCATGGGT 567
+                       -i i-v -ii-ivv vvi
+  Cannrnd-1_fami    519 GGCCCAAAACCGGACAGT 536
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 9.30
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1729 16.00 0.00 0.00 ScafA 600 700 (49300) C Cannrnd-2_family-3#LTR/ERVL (1912) 449 349 1 m_b2710s001i10
+
+  ScafA             600 GGGGT-GACTGGACACT 616
+                       i-ii-ivi-v -  -v 
+C Cannrnd-2_fami    349 AGGCCCCCCCATGTCTT 333
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 10.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3037 17.30 0.00 0.00 ScafA 650 750 (49250) Cannrnd-3_family-4 1648 1748 (1790) 1 m_b9299s001i11
+
+  ScafA             650 GCAAT-TTCATCGCGGGGACACAGTTT 676
+                       --v  -iv vv  vv v i-vvi  - 
+  Cannrnd-3_fami   1648 GGATCCTGCAGGAGCTGAGATGTTTCA 1674
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 10.70
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1941 18.60 0.00 0.00 ScafA 700 800 (49200) C Cannrnd-0_family-5 (494) 536 436 1 m_b5133s001i12
+
+  ScafA             700 CTCGC-ATAACGTGATTTAGTTCAGAACTG 729
+                        i v-iiv i vvvivi  ii-  -v  iv
+C Cannrnd-0_fami    436 CCTACTTGAATCCAGAAGTCCAGAATTCAT 407
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2003 19.90 0.00 0.00 ScafA 750 850 (49150) Cannrnd-1_family-6 2821 2921 (2868) 1 m_b478s001i13
+
+  ScafA             750 GTGGA-TGAAATTGCGACC 768
+                       i- iiiiii ii - --i 
+  Cannrnd-1_fami   2821 TTACCGAGTCAAACTGACC 2839
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 12.10
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3719 21.20 0.00 0.00 ScafA 800 900 (49100) C Cannrnd-2_family-0 (1346) 544 444 1 m_b4178s001i14
+
+  ScafA             800 CTCAC-CGCGGGCG 813
+                        v i- ivi -vi-
+C Cannrnd-2_fami    444 GAGGAAAATTATAC 431
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 12.80
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1759 22.50 0.00 0.00 ScafA 850 950 (49050) Cannrnd-3_family-1#LTR/ERVL 1839 1939 (3651) 1 m_b396s001i15
+
+  ScafA             850 TCCAT-GATCATAGTCGT 867
+                       iv-vv i vi-   i v-
+  Cannrnd-3_fami   1839 TCACGCTGATTCGGAGCA 1856
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 13.50
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1337 3.80 0.00 0.00 ScafA 900 1000 (49000) C Cannrnd-0_family-2 (3948) 1242 1142 1 m_b9157s001i16
+
+  ScafA             900 GTGCA-CAAGTTATT 914
+                       - vi--vvi-viiii
+C Cannrnd-0_fami   1142 CGTCAATATCTATTA 1128
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+569 5.10 0.00 0.00 ScafA 950 1050 (48950) Cannrnd-1_family-3 326 426 (1417) 1 m_b5425s001i17
+
+  ScafA             950 CATAA-CACGTCCGAACAAGGGCCAATTGA 979
+                       v- -i--vii-iiv-i v-v-i- - v-iv
+  Cannrnd-1_fami    326 TAGCTAGCCCGCTACAGTCGCTTAGTAAAG 355
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 14.90
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+564 6.40 0.00 0.00 ScafA 1000 1100 (48900) C Cannrnd-2_family-4 (3199) 2651 2551 1 m_b2133s001i18
+
+  ScafA            1000 ACCGG-CCAACAGCGCTTGAG 1020
+                       -i ii viv-  -i  -ii- 
+C Cannrnd-2_fami   2551 GAATGACATACTTCGCACCGG 2531
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 15.60
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3086 7.70 0.00 0.00 ScafA 1050 1150 (48850) Cannrnd-3_family-5 1214 1314 (2383) 1 m_b7845s001i19
+
+  ScafA            1050 CTTTG-TAGTGTGCACAATTGGGCTAAAG 1078
+                       i-  viii-ii- vv- i-v-v-vi-v-i
+  Cannrnd-3_fami   1214 CTACACTAACTAACACGGATATTCGGTGA 1242
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 16.30
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+415 9.00 0.00 0.00 ScafA 1100 1200 (48800) C Cannrnd-0_family-6#LTR/ERVL (473) 169 69 1 m_b4219s001i20
+
+  ScafA            1100 CTAAC-TGGTTGCTATGCCC 1119
+                       v vvv----- viii-vi-v
+C Cannrnd-0_fami     69 TGGGCCGTCCGGGTCCCGTC 50
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3529 10.30 0.00 0.00 ScafA 1150 1250 (48750) Cannrnd-1_family-0 1343 1443 (1589) 1 m_b1155s001i21
+
+  ScafA            1150 ACTAC-AGTCCGAGTCCGCCGTGGGA 1175
+                       --v--   vi - ivi- vvi i-ii
+  Cannrnd-1_fami   1343 ATTAGGATGTCGTATCAACTAGCACG 1368
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 17.70
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1403 11.60 0.00 0.00 ScafA 1200 1300 (48700) C Cannrnd-2_family-1 (2144) 2194 2094 1 m_b7595s001i22
+
+  ScafA            1200 TTGGA-ATATAC 1211
+                       ivvii  ii---
+C Cannrnd-2_fami   2094 TCGAAGGCATCC 2083
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 18.40
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+808 12.90 0.00 0.00 ScafA 1250 1350 (48650) Cannrnd-3_family-2 74 174 (1658) 1 m_b3306s001i23
+
+  ScafA            1250 TTGAC-AGCTAAGCC 1264
+                       i-ii- -  ii  vv
+  Cannrnd-3_fami     74 GCATTACGAGTCTAC 88
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 19.10
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3150 14.20 0.00 0.00 ScafA 1300 1400 (48600) C Cannrnd-0_family-3 (1843) 270 170 1 m_b4294s001i24
+
+  ScafA            1300 ACCGA-GTGATGGTC 1314
+                       i-- --v ii v---
+C Cannrnd-0_fami    170 GCAAAGCATTCCGCG 156
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1173 15.50 0.00 0.00 ScafA 1350 1450 (48550) Cannrnd-1_family-4#LTR/ERVL 1086 1186 (1005) 1 m_b2491s001i25
+
+  ScafA            1350 TTGTT-ATTATG 1361
+                       - i- i v- --
+  Cannrnd-1_fami   1086 CGTAACGCAATA 1097
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 20.50
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1112 16.80 0.00 0.00 ScafA 1400 1500 (48500) C Cannrnd-2_family-5 (1184) 1163 1063 1 m_b927s001i26
+
+  ScafA            1400 ACTGA-GCCCGAGCTAATTCAGTGCTCTC 1428
+                       vivi--i iv-ivvvii--v    --vv-
+C Cannrnd-2_fami   1063 ACACGTTCTTGTTACTTTGCCGCACCCAA 1035
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 21.20
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1030 18.10 0.00 0.00 ScafA 1450 1550 (48450) Cannrnd-3_family-6 684 784 (1239) 1 m_b3659s001i27
+
+  ScafA            1450 GACCC-TATTCTAGCGCTCA 1469
+                       v --- iiv--i-  i iii
+  Cannrnd-3_fami    684 GATTCGGGTCATGTTGCAGA 703
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 21.90
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2698 19.40 0.00 0.00 ScafA 1500 1600 (48400) C Cannrnd-0_family-0 (5395) 221 121 1 m_b9857s001i28
+
+  ScafA            1500 GATAC-TAACCCC 1512
+                       v ivi     -i 
+C Cannrnd-0_fami    121 CTAAAAGCACGCA 109
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1043 20.70 0.00 0.00 ScafA 1550 1650 (48350) Cannrnd-1_family-1 237 337 (3792) 1 m_b4839s001i29
+
+  ScafA            1550 GTATT-CCTACCCTCCTGAGAATTCTAAT 1578
+                       v ivvv i-i-viv--  i iivi-vv -
+  Cannrnd-1_fami    237 ATCAGCGAGCCGCCTGCAAATGGAGGGTG 265
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 23.30
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+

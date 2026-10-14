@@ -1,0 +1,18 @@
+   SW   perc perc perc  query      position in query           matching       repeat              position in  repeat
+score   div. del. ins.  sequence    begin     end    (left)    repeat         class/family         begin  end (left)   ID
+
+   3617  15.0  0.0  0.0  chr1              100     300     (99700) +  L1MC5a     LINE/L1             1188  1388 (1512)     1
+  2462  15.0  0.0  0.0  chr1              250     450     (99550) +  L1PA3      LINE/L1               11   211 (784)     2
+  2023  14.0  0.0  0.0  chr1              400     600     (99400) C  L1M4       LINE/L1           (1259)  1588  1388     3
+  1289  14.0  0.0  0.0  chr1              580     700     (99300) +  AluY       SINE/Alu             394   514 (4244)     4
+    358  16.0  1.0  1.0  chr1              650     800     (99200) +  AluJb      SINE/Alu             543   693 (725)     5
+   1337  15.0  0.0  0.0  chr1              790     900     (99100) +  MIR3       SINE/MIR            1182  1292 (1529)     6
+   3679  15.0  0.0  0.0  chr1             1000    1100     (98900) +  LTR12C     LTR/ERV1             189   289 (672)     7
+   884  15.0  0.0  0.0  chr1             1000    1100     (98900) +  MER41B     LTR/ERV1             446   546 (2392)     8
+   120  15.0  0.0  0.0  chr1             1000    1100     (98900) +  HERVK      LTR/ERVK             160   260 (246)     9
+   3373  14.9  0.0  0.0  chr1             1050    1060     (98940) C  GYPSY1     LTR/Gypsy         (2082)   320   310    10
+    919   5.0  5.0  5.0  median_chr      10000   10000     (10000) +  MedianTie  LINE/L1               19    19 (462)    11
+    166     5    5    5  median_chr      10001   10001      (9999) +  MedianTie  LINE/L1               14    14 (112)    12
+  1761   5.0  5.0  5.0  median_chr      10002   10002      (9998) +  MedianTie  LINE/L1              484   484 (1304)    13
+   1893   5.0  5.0  5.0  median_chr          1      15     (19985) +  MedianLex  LINE/L1              606   620 (1462)    14
+   3357     5    5    5  median_chr         16      25     (19975) +  MedianLex  LINE/L1              281   290 (1249)    15

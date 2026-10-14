@@ -1,0 +1,5 @@
+   SW   perc perc perc  query      position in query           matching       repeat              position in  repeat
+score   div. del. ins.  sequence    begin     end    (left)    repeat         class/family         begin  end (left)   ID
+
+   582   1.0  0.0  0.0  chr1                5      50     (99950) +  (CA)n      Simple_repeat        448   493 (3420)     1
+  1142   1.0  0.0  0.0  chr1               60      90     (99910) +  A-rich     Low_complexity        20    50 (4225)     2

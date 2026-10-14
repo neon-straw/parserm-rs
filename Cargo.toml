@@ -1,0 +1,16 @@
+[package]
+name = "parserm-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Fast Rust port of parseRM.pl (-p/-a/-l) with output parity (averages within 1e-9)"
+license = "MIT"
+
+[dependencies]
+memchr = "2"
+regex = { version = "1", default-features = false, features = ["std", "perf", "unicode-perl"] }
+rustc-hash = "2"
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
+panic = "abort"

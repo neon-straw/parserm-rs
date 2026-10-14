@@ -1,0 +1,45 @@
+   SW   perc perc perc  query      position in query           matching       repeat              position in  repeat
+score   div. del. ins.  sequence    begin     end    (left)    repeat         class/family         begin  end (left)   ID
+
+   2252   0.0  0.0  0.0  chr1              100     218      (9782) C  L2a        LINE/L2           (3305)  2570  2452     1
+   3816   3.7  0.0  0.0  chr1              170     267      (9733) +  AluSx      SINE/Alu             122   219 (654)     2
+  1020   7.4  0.0  0.0  chr1              240     330      (9670) C  MIR        SINE/MIR          (1195)  1036   946     3
+   1603  11.1  0.0  0.0  chr1              310     405      (9595) +  MSTA       LTR/ERVL-MaLR       1708  1803 (3147)     4
+    140  14.8  0.0  0.0  chr1              380     507      (9493) C  LTR12C     LTR/ERV1          (2527)  1824  1697     5
+   2862  18.5  0.0  0.0  chr1              450     542      (9458) +  HERVK      LTR/ERVK              37   129 (44)     6
+  2331   0.0  0.0  0.0  chr2              100     195      (8805) C  L2a        LINE/L2           (2727)  1899  1804     7
+   2749   3.7  0.0  0.0  chr2              170     266      (8734) +  AluSx      SINE/Alu             639   735 (4983)     8
+  1134   7.4  0.0  0.0  chr2              240     352      (8648) C  MIR        SINE/MIR          (201)   324   212     9
+   1939  11.1  0.0  0.0  chr2              310     415      (8585) +  MSTA       LTR/ERVL-MaLR       1006  1111 (1300)    10
+  3001  14.8  0.0  0.0  chr2              380     471      (8529) C  LTR12C     LTR/ERV1          (2896)   337   246    11
+   2731  18.5  0.0  0.0  chr2              450     541      (8459) +  HERVK      LTR/ERVK             154   245 (2280)    12
+    392   1.1  0.0  0.0  chr1              113     204      (9796) +  CR1-1      LINE/CR1              86   177 (2888)    13
+   785   4.8  0.0  0.0  chr1              183     295      (9705) C  AluY       SINE/Alu          (4351)   222   110    14
+   400   8.5  0.0  0.0  chr1              253     382      (9618) +  MIR3       SINE/MIR            2072  2201 (2522)    15
+   1338  12.2  0.0  0.0  chr1              323     443      (9557) C  THE1B      LTR/ERVL-MaLR     (7)   200    80    16
+   2197  15.9  0.0  0.0  chr1              393     522      (9478) +  MER41B     LTR/ERV1             113   242 (1115)    17
+  3674  19.6  0.0  0.0  chr1              463     582      (9418) C  MER5B      DNA/hAT-Charlie   (3351)   743   624    18
+   992   0.0  0.0  0.0  chr10             100     199      (7801) C  CR1-1      LINE/CR1          (3505)   110    11    19
+  3248   3.7  0.0  0.0  chr10             170     265      (7735) +  AluY       SINE/Alu             506   601 (5275)    20
+  3248   7.4  0.0  0.0  chr10             240     341      (7659) C  MIR3       SINE/MIR          (481)   626   525    21
+  2788  11.1  0.0  0.0  chr10             310     407      (7593) +  THE1B      LTR/ERVL-MaLR       1895  1992 (3373)    22
+   1333  14.8  0.0  0.0  chr10             380     470      (7530) C  MER41B     LTR/ERV1          (5035)   326   236    23
+   2387  18.5  0.0  0.0  chr10             450     572      (7428) +  MER5B      DNA/hAT-Charlie      105   227 (4727)    24
+   2026   1.1  0.0  0.0  chr2              113     234      (8766) +  CR1-1      LINE/CR1             143   264 (504)    25
+   3225   4.8  0.0  0.0  chr2              183     288      (8712) C  AluY       SINE/Alu          (810)   844   739    26
+   987   8.5  0.0  0.0  chr2              253     347      (8653) +  MIR3       SINE/MIR            1407  1501 (2381)    27
+  2752  12.2  0.0  0.0  chr2              323     447      (8553) C  THE1B      LTR/ERVL-MaLR     (770)   196    72    28
+   814  15.9  0.0  0.0  chr2              393     512      (8488) +  MER41B     LTR/ERV1              79   162 (0)    29
+  3608  19.6  0.0  0.0  chr2              463     557      (8443) C  MER5B      DNA/hAT-Charlie   (854)   284   190    30
+  2412   0.0  0.0  0.0  scaffold_10.1      100     228      (6772) C  MSTA       LTR/ERVL-MaLR     (4751)   388   260    31
+   630   3.7  0.0  0.0  scaffold_10.1      170     265      (6735) +  LTR12C     LTR/ERV1             136   231 (2887)    32
+   2804   7.4  0.0  0.0  scaffold_10.1      240     362      (6638) C  HERVK      LTR/ERVK          (232)   278   156    33
+   2332  11.1  0.0  0.0  scaffold_10.1      310     437      (6563) +  Tigger1    DNA/TcMar-Tigger    2461  2588 (2657)    34
+   1526  14.8  0.0  0.0  scaffold_10.1      380     472      (6528) C  Blackjack  DNA/hAT-Blackjack (2102)  1213  1121    35
+   3182  18.5  0.0  0.0  scaffold_10.1      450     557      (6443) +  UnkX       Unknown             1315  1422 (1328)    36
+  2610   2.2  0.0  0.0  chr1              126     251      (9749) C  L1HS       LINE/L1           (923)   424   299    37
+  3998   5.9  0.0  0.0  chr1              196     290      (9710) +  AluJb      SINE/Alu             574   668 (1422)    38
+  2130   9.6  0.0  0.0  chr1              266     375      (9625) C  MLT1A      LTR/ERVL-MaLR     (4289)  1489  1380    39
+   3050  13.3  0.0  0.0  chr1              336     456      (9544) +  MLT2B      LTR/ERVL             613   733 (4098)    40
+   3917  17.0  0.0  0.0  chr1              406     518      (9482) C  GYPSY1     LTR/Gypsy         (2904)  1665  1553    41
+   215  20.7  0.0  0.0  chr1              476     583      (9417) +  Charlie1   DNA/hAT-Charlie      303   410 (421)    42

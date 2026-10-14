@@ -1,0 +1,9 @@
+#nr_masked = amount of masked nt to consider
+#tot_masked = total amount of masked nt, including redundant maskins / overlaps
+#double_masked = total amount of nt that were masked by at least 2 repeats = redundant masking / overlaps
+
+#Input_file	nt_masked-minus-double	tot_masked	nt_masked_double	AgeCat	Counts_this_age	nr_Counts_this_age	nr_masked_this_age	%nr_masked_this_age
+
+./blocks.out	2998	3262	264	LS	18	6	852	28.418945963976
+./blocks.out	2998	3262	264	nd	25	7	1193	39.7931954636424
+./blocks.out	2998	3262	264	A	19	1	953	31.7878585723816

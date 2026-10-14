@@ -1,0 +1,277 @@
+3847 5.00 0.00 0.00 chr1 100 160 (99840) C (CA)n#Simple_repeat (3152) 2529 2469 1 m_b2301s001i0
+
+  chr1              100 GCGAA-ACACGATCGTAATTTATAAA 125
+                       v  vv vv-v v-v ii --v - vv
+C (CA)n#Simple_r   2469 AGACTTTTTCGAGGTTTCAAGTCATT 2444
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2075 5.50 0.00 0.00 chr1 140 200 (99800) (TTAGGG)n#Simple_repeat 84 144 (31) 1 m_b2823s001i1
+
+  chr1              140 TAACC-ACTTGTTACATTGAGGTCCACG 167
+                       vi ivvv-- -i vi iiviii i vii
+  (TTAGGG)n#Simp     84 TAACAGGTACGAACCCGTGAGCGGTACA 111
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 6.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1062 6.00 0.00 0.00 chr1 180 240 (99760) C (GA)n#Simple_repeat (5156) 727 667 1 m_b4989s001i2
+
+  chr1              180 TAGGC-CACTAGCTC 194
+                       -ivvvv i v-iv--
+C (GA)n#Simple_r    667 CGAATTGCCTACCTA 653
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 7.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1427 6.50 0.00 0.00 chr1 220 280 (99720) A-rich#Low_complexity 889 949 (1016) 1 m_b5791s001i3
+
+  chr1              220 CCGTG-TCCCCCAGCGAACAGA 241
+                       -v --v-i vvvvi---v  - 
+  A-rich#Low_com    889 GTATAGGTCGGTAACCTGAAAC 910
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2833 7.00 0.00 0.00 chr1 260 320 (99680) C GC_rich#Low_complexity (1430) 400 340 1 m_b7936s001i4
+
+  chr1              260 GTGTT-GTCTGGATAGTATTA 280
+                       - vi v-i----- i v i-i
+C GC_rich#Low_co    340 ACACTGAAGGGTCAGACGCCC 320
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 9.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1747 7.50 0.00 0.00 chr1 300 360 (99640) ALR/Alpha#Satellite/centr 594 654 (676) 1 m_b9071s001i5
+
+  chr1              300 TGTCT-CATATGCTATTCCC 319
+                       vv--- -v- v i --ii i
+  ALR/Alpha#Sate    594 GGGCACTTCTGTGGGAATGT 613
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 10.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1706 8.00 0.00 0.00 chr1 340 400 (99600) C SST1#Satellite/macro (1222) 1135 1075 1 m_b327s001i6
+
+  chr1              340 ATGAC-TCGCCGCTCCTTG 358
+                       vv-i--i  i -ii- ivi
+C SST1#Satellite   1075 TTAGCCCCCGCCGTTATAC 1057
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3374 8.50 0.00 0.00 chr1 380 440 (99560) SATR1#Satellite 230 290 (1545) 1 m_b2885s001i7
+
+  chr1              380 GGTGT-TTGCTGAACTCTCGTCCAGGTCG 408
+                       - v ivii-i-vvivi -v v  ii  -v
+  SATR1#Satellit    230 ACGCGATAAGCACTATACAAACGCAAGTT 258
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 12.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3834 9.00 0.00 0.00 chr1 420 480 (99520) C tRNA-Leu#tRNA (3524) 287 227 1 m_b3248s001i8
+
+  chr1              420 CAAGC-GCCCGGTGCGTCTCGATGTCGGA 448
+                       ii---ii  - ---i v vi-   -iviv
+C tRNA-Leu#tRNA     227 CGTCGAAAGCTTGCTCGGGGACCCAGAGA 199
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 13.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2644 9.50 0.00 0.00 chr1 460 520 (99480) 5S#rRNA 309 369 (4159) 1 m_b267s001i9
+
+  chr1              460 CCTGG-ATGATCGTACCACACAC 482
+                       v v v ii -v-i - i  v i-
+  5S#rRNA           309 GGAACGCGCGGGCGATAAGTATC 331
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+869 10.00 0.00 0.00 chr1 500 560 (99440) C LSU-rRNA_Hsa#rRNA/rRNA (2664) 329 269 1 m_b2417s001i10
+
+  chr1              500 GTTAA-CAATAGACTCG 516
+                       v iviv   -vivv i 
+C LSU-rRNA_Hsa#r    269 CGATTGCCCTCGTCGGG 253
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 15.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1165 10.50 0.00 0.00 chr1 540 600 (99400) U1#snRNA 996 1056 (2811) 1 m_b7072s001i11
+
+  chr1              540 GGCGC-CAGGCACAAGTGC 558
+                       iiiii--v -i- iv-ivi
+  U1#snRNA          996 ACGATACACTCAATGAGCA 1014
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 16.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+584 11.00 0.00 0.00 chr1 580 640 (99360) C scRNA1#scRNA (106) 95 35 1 m_b5587s001i12
+
+  chr1              580 TCATA-GCTTAGCT 593
+                       vi   i--i- - v
+C scRNA1#scRNA       35 TGAGGCTCGCTGTT 22
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+896 11.50 0.00 0.00 chr1 620 680 (99320) CentX#Centromeric 1914 1974 (1872) 1 m_b3523s001i13
+
+  chr1              620 TGTCA-TGCGCAGCACGCTGAGGCTAATGA 649
+                        - - vvi  i -i - v vi i- i- i-
+  CentX#Centrome   1914 CCGCGAACTGACAGTGATCTCTAGAAGTGT 1943
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 18.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2203 12.00 0.00 0.00 chr1 660 720 (99280) C TeloY#Telomeric/telo (1937) 68 8 1 m_b7698s001i14
+
+  chr1              660 GACTG-AAACTCGGCAAGTGCGT 682
+                       vi- v iiv ii -  iv  -i 
+C TeloY#Telomeri      8 TACGATGACACAATGAGAACGTT -14
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 19.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+448 12.50 0.00 0.00 chr1 700 760 (99240) Art1#ARTEFACT 1381 1441 (4521) 1 m_b3075s001i15
+
+  chr1              700 ACGAT-CGATAGAT 713
+                       i  i-  -vv  v-
+  Art1#ARTEFACT    1381 TGCTGCCAAGTATG 1394
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+3047 13.00 0.00 0.00 chr1 740 800 (99200) C nonTE1#nonTE (1713) 1466 1406 1 m_b2757s001i16
+
+  chr1              740 AACAT-CTACGCGTGTATAGGTCGTTGTGT 769
+                       - i--v v--  ii  i vi-- i- vv-v
+C nonTE1#nonTE     1406 CACCCCTAGCCCGGCTTTAAGTGCACTGGA 1377
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 21.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+548 13.50 0.00 0.00 chr1 780 840 (99160) nonTE2#nonTE/foo 129 189 (2751) 1 m_b6104s001i17
+
+  chr1              780 CAGTT-TCCGAGCATGGGATTTTATCGTTG 809
+                       -ii--i-v  ivi vvi -i-vi---  --
+  nonTE2#nonTE/f    129 AAGATGGTTGTGCCCGACAACCACGCTTTA 158
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 22.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1887 14.00 0.00 0.00 chr1 820 880 (99120) C L1MC5a#LINE/L1 (289) 317 257 1 m_b5843s001i18
+
+  chr1              820 CCGAG-TAGACCACCATAAAACCTATGCT 848
+                       vviivv vv -i v ivi--i-v i vv 
+C L1MC5a#LINE/L1    257 CCGCTTATGAACTTACCTAAGGGGCCAAT 229
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2081 14.50 0.00 0.00 chr1 860 920 (99080) L1PA2#LINE/L1 218 278 (532) 1 m_b3944s001i19
+
+  chr1              860 ACGAC-TTCTTGGTCCAAACCGGGACGGGT 889
+                       -  v v  vivi -i---i -v-i-i-v-i
+  L1PA2#LINE/L1     218 TCGTTACACGTATCAGAGGGGGCCAAGCAG 247
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 24.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2945 15.00 0.00 0.00 chr1 900 960 (99040) C L1PA3#LINE/L1 (1001) 613 553 1 m_b164s001i20
+
+  chr1              900 GCCTC-CACGCTTTCGCGGGTATCCGTTT 928
+                        --ii--ivi-- v- vvi-ii-vvv-  
+C L1PA3#LINE/L1     553 CGGATTGAACGAGTGCCCGACCTTTGTGG 525
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 25.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2222 15.50 0.00 0.00 chr1 940 1000 (99000) L1M4#LINE/L1 1335 1395 (1431) 1 m_b9919s001i21
+
+  chr1              940 ATATA-GCATCCTCGCGTGTCGAT 963
+                       -iv v - --vi v v-v i-v i
+  L1M4#LINE/L1     1335 GCGTGCACACGTACCTTCAATATG 1358
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2425 16.00 0.00 0.00 chr1 980 1040 (98960) C L2a#LINE/L2 (4459) 424 364 1 m_b1127s001i22
+
+  chr1              980 TAAGG-CGTTGTCCACCCTGG 1000
+                       v v-i-vv  -v v-- - vi
+C L2a#LINE/L2       364 CCATGACTCGTTACCTCCAAG 344
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 27.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2504 16.50 0.00 0.00 chr1 1020 1080 (98920) CR1-1#LINE/CR1 836 896 (2478) 1 m_b5459s001i23
+
+  chr1             1020 AACCT-ATCAGC 1031
+                        viv-v-i -  
+  CR1-1#LINE/CR1    836 CGTCGATCTTAA 847
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 28.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+895 17.00 0.00 0.00 chr1 1060 1120 (98880) C L1HS#LINE/L1 (1542) 1613 1553 1 m_b8732s001i24
+
+  chr1             1060 TGTAG-CAACATGTACTGAACT 1081
+                        -v iv  iii --v- -i- -
+C L1HS#LINE/L1     1553 CGCCTGCTACGCAGGCGCCTAA 1532
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1406 17.50 0.00 0.00 chr1 1100 1160 (98840) AluSx#SINE/Alu 381 441 (3657) 1 m_b2297s001i25
+
+  chr1             1100 AGTGA-ACGCCACAATTCTTC 1120
+                       vv  vv  i  --v vvi  i
+  AluSx#SINE/Alu    381 CTAATGTGCTTACTCCGGCTG 401
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 30.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+

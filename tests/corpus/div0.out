@@ -1,0 +1,15 @@
+   SW   perc perc perc  query      position in query           matching       repeat              position in  repeat
+score   div. del. ins.  sequence    begin     end    (left)    repeat         class/family         begin  end (left)   ID
+
+    995   0.0  0.0  0.0  chr1              100     200     (99800) +  L1PA2      LINE/L1              554   654 (3674)     1
+  2869   5.0  0.0  0.0  chr1              150     250     (99750) +  AluSx      SINE/Alu            1011  1111 (3977)     2
+  3755   0.0  0.0  0.0  chr1              180     300     (99700) +  MIR        SINE/MIR             193   313 (237)     3
+    131   0.0  0.0  0.0  chr1             1000    1100     (98900) C  MER5B      DNA/hAT-Charlie   (0)   115    42     4
+   1581   0.0  0.0  0.0  chr1             1050    1060     (98940) C  L2a        LINE/L2           (1947)   886   876     5
+  1906   1.0  0.0  0.0  chr1             1090    1200     (98800) +  Tigger1    DNA/TcMar-Tigger    1898  2008 (2515)     6
+  3709   2.0  0.0  0.0  chr1             2000    2100     (97900) +  MLT1A      LTR/ERVL-MaLR        633   733 (3088)     7
+   2974   0.0  0.0  0.0  chr1             2050    2150     (97850) +  THE1B      LTR/ERVL-MaLR       2038  2138 (2794)     8
+  2716   0.0  0.5  0.0  chr1             2120    2200     (97800) +  MSTA       LTR/ERVL-MaLR       1555  1635 (2115)     9
+  3667   0.0  0.0  0.0  chr2             3000    3000     (77000) +  LTR12C     LTR/ERV1              98    98 (4529)    10
+  2019   0.0  0.0  0.5  chr2             3000    3000     (77000) +  LTR12C     LTR/ERV1             791   791 (799)    11
+  3895   3.0  0.0  0.0  chr2             3000    3000     (77000) +  MER41B     LTR/ERV1             591   591 (1151)    12

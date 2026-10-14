@@ -1,0 +1,7 @@
+nesting.out|-p -a 5,15 -l 50,1
+div0.out|-p -kim -a 5,15 -l 50,1
+blocks.out|-a 5,15
+basic.align|-p -a age.txt -l 50,1
+intdiv.out|-p -my 0.0022 -l 10,0.5
+rand1.out|-p -rlib lib.fa -glen glen.txt -what name,L1 -contain
+partial.out|-p

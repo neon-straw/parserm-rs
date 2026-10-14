@@ -1,0 +1,14 @@
+L1PA2	EditedClass1	EditedFam1
+CR1-1	EditedClass2	EditedFam1
+AluJb	EditedClass0	EditedFam1
+MSTA	EditedClass1	EditedFam1
+MER41B	EditedClass2	EditedFam1
+Charlie1	EditedClass0	EditedFam1
+Blackjack	EditedClass1	EditedFam1
+Cannrnd-3_family-5	EditedClass2	EditedFam1
+Dot3	EditedClass0	EditedFam1
+ALUSX	EditedClass1	EditedFam1
+A-rich	EditedClass2	EditedFam1
+SATR1	EditedClass0	EditedFam1
+U1	EditedClass1	EditedFam1
+Art1	EditedClass2	EditedFam1

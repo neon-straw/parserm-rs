@@ -1,0 +1,85 @@
+352 12.30 10.00 0.00 Scaffold10260 147 276 (99724) Cannrnd-3_family-5#LTR/ERVL 847 976 (1030) 1 m_b2767s001i0
+
+  Scaffold10260     147 CGTTT-TATGCACCATCCGTCCTCC 171
+                       viii-i--vi-vi iiv-  v v-i
+  Cannrnd-3_fami    847 CTGGCCCGTCTGACACAACCCCTAC 871
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 13.45
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1438 16.00 4.90 1.90 Scaffold10260 1174 1275 (98725) C Cannrnd-5_family-2606#LTR/ERV1 (3481) 801 700 1 m_b3863s001i1
+
+  Scaffold10260    1174 AGAGA-GGACTGTTCC 1189
+                       viv -v-iii-i-iv-
+C Cannrnd-5_fami    700 TGATAAGATGAATAAT 685
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 17.81
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1415 0.00 0.00 0.00 Scaffold10260 2000 2100 (97900) L1PA2#LINE/L1 33 133 (4971) 1 m_b7346s001i2
+
+  Scaffold10260    2000 CTCGC-ATAACGCCCG 2015
+                       ivi--vv-i---- --
+  L1PA2#LINE/L1      33 TGTCGGAAAATATTGA 48
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 0.00
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2038 0.00 0.00 0.00 Scaffold10260 2050 2150 (97850) C AluSx#SINE/Alu (3773) 492 392 1 m_b5301s001i3
+
+  Scaffold10260    2050 TTTTC-TAATTCGCACATCGGAA 2072
+                        i--i i-  vv -iii  -ivi
+C AluSx#SINE/Alu    392 TTCCTTTAGATTTGATTCCATGA 370
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+315 8.03 0.00 0.00 Scaffold10260 5000 5100 (94900) MIR#SINE/MIR 243 343 (2900) 1 m_b5821s001i4
+
+  Scaffold10260    5000 GGTGG-TTGAAAGTCTGGCTTAG 5022
+                       v- -- i-v vv--- vv-ivvv
+  MIR#SINE/MIR      243 TTACGGCCGGACCACGCGTGTTC 265
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 9.02
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+880 8.07 0.50 0.50 Scaffold10260 5050 5200 (94800) C MER5B#DNA/hAT-Charlie (2617) 1417 1267 1 m_b5585s001i5
+
+  Scaffold10260    5050 GGCCC-GCGCTCGCTGTTACACTGAA 5075
+                       vv v i i - -- iii--i    v-
+C MER5B#DNA/hAT-   1267 GAGAAAAAACATGGTTAGTACTAGCA 1242
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+1825 7.00 0.00 0.00 Scaffold10260 6000 6100 (93900) Plain-1 135 235 (621) 1 m_b107s001i6
+
+  Scaffold10260    6000 TTAGG-CACATCAGCCAGCTATACGTCTCC 6029
+                       ---iv--vv--iii v  ---i-v-vvv- 
+  Plain-1           135 TACAGACCGAGGGCAAAGCCCACTATCGGA 164
+
+Matrix = 20p41g.matrix
+Kimura (with divCpGMod) = 7.50
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+
+2623 7.00 0.00 0.00 Scaffold10260 6050 6150 (93850) C Plain-2 (367) 167 67 1 m_b1102s001i7
+
+  Scaffold10260    6050 TGACT-TGCCGTACCCAGACATT 6072
+                       iv-- i--ivv-- -vvii-v -
+C Plain-2            67 TTCTAGGGCTGAACTCTCTTTAA 45
+
+Matrix = 20p41g.matrix
+Transitions / transversions = 1.40 (14/10)
+Gap_init rate = 0.03 (3 / 102), avg. gap size = 1.33 (4 / 3)
+

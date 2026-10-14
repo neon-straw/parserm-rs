@@ -1,0 +1,24 @@
+#This file gives some summary info about the masking, total, by class and by family
+#(all repeats are detailed in the file ./partial.out.parseRM.all-repeats.tab)
+#Overlap or double corresponds to DNA fragments that are masked by several elements.
+#These amounts need to be subtracted in order to get more accurate TE amount.
+#If a .align file was parsed, these amounts will be much higher than for the associated .out
+#Note that overlaps may not be parsed correctly if names are not formatted consistently (Rname#Rclass/Rfam)
+
+#TOTAL:
+#nt_total_in_genome	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+nd	930	nd	398
+
+#BY CLASS
+#class	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+SINE	300	nd	62
+LTR	101	nd	101
+LINE	529	nd	123
+
+#BY FAMILY
+#family	nt_masked-minus-double	%_masked	FYI:nt_masked_double
+MIR	111	nd	11
+ERV1	90	nd	90
+L1	529	nd	123
+Gypsy	11	nd	11
+Alu	189	nd	51

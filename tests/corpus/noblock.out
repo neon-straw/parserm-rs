@@ -1,0 +1,11 @@
+   SW   perc perc perc  query      position in query           matching       repeat              position in  repeat
+score   div. del. ins.  sequence    begin     end    (left)    repeat         class/family         begin  end (left)   ID
+
+   2252  10.0  0.0  0.0  chr1              100     200     (99800) +  L1PA2      LINE/L1             1968  2068 (3237)     1
+   3629  10.0  0.0  0.0  chr1              300     400     (99600) +  L1PA2      LINE/L1             1361  1461 (1469)
+   476   9.0  0.0  0.0  chr1              350     450     (99550) +  AluSx      SINE/Alu            1715  1815 (2549)
+  1945  12.0  0.0  0.0  chr1              500     600     (99400) C  AluSx      SINE/Alu          (2151)   560   460     4 *
+   147  12.0  0.0  0.0  chr1              700     800     (99200) C  MIR        SINE/MIR          (1904)  1378  1278     0
+  3645  13.0  0.0  0.0  chr1              900     950     (99050) C  MIR        SINE/MIR          (950)   705   655     5
+   2982  13.0  0.0  0.0  chr2              950     990     (79010) C  MER5B      DNA/hAT-Charlie   (3650)   580   540
+   2995  14.0  0.0  0.0  chr2             1000    1090     (78910) C  MER5B      DNA/hAT-Charlie   (3117)  2122  2032     7 *
